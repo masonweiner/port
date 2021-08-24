@@ -65,6 +65,12 @@
   text-shadow: 2px 2px 2px 2px #2b2d2f;
 }
 
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 #card {
   background-color: #7463bd;
   color: #fffafa;
