@@ -44,7 +44,13 @@
   color: #4a4d50;
   background-color: #7463bd;
 }
-
+.footer {
+  display: flex;
+  justify-content: center;
+}
+.footbtn {
+  margin: 2%;
+}
 .mason {
   max-width: 300px;
   flex-basis: 40%;
