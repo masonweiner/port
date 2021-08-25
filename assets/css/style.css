@@ -71,6 +71,10 @@
   align-items: center;
 }
 
+p {
+  text-align: center;
+}
+
 .divider {
   border-bottom: 2px dashed #7463bd;
   flex-basis: 100%;
