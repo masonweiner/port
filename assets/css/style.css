@@ -52,6 +52,7 @@
   margin: 2%;
 }
 .mason {
+  margin: 15px;
   max-width: 300px;
   flex-basis: 40%;
 }
